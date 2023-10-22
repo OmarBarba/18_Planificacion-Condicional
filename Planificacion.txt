@@ -1,0 +1,19 @@
+    Algoritmos de Planificación: STRIPS y ADL: Estos son enfoques algorítmicos utilizados para generar planes que describen cómo lograr un objetivo dado en un dominio específico. STRIPS (Stewart-Russell Initial Problem Solver) y ADL (Action Description Language) son ejemplos de lenguajes y algoritmos utilizados en planificación.
+
+    Espacio de Estados: El espacio de estados se refiere a la representación de todos los posibles estados que puede alcanzar un sistema o agente durante la ejecución de un plan. Se utiliza para modelar y explorar las posibles secuencias de acciones.
+
+    Planificación de Orden Parcial: En la planificación de orden parcial, no todas las acciones en un plan deben ejecutarse en un orden fijo. Esto permite una mayor flexibilidad en la generación de planes y es útil cuando las relaciones temporales entre acciones son complejas.
+
+    Grafos de Planificación: GRAPHPLAN: GRAPHPLAN es un enfoque de planificación basado en la construcción de un grafo que representa las posibles acciones y estados intermedios en un plan. Facilita la resolución de problemas de planificación mediante búsqueda en grafo.
+
+    Planificación Lógica Proposicional: SATPLAN: SATPLAN es un enfoque que utiliza la resolución de problemas de satisfacibilidad booleana (SAT) para la planificación. Transforma el problema de planificación en un problema SAT y utiliza solucionadores SAT para encontrar planes.
+
+    Redes Jerárquicas de Tareas: Las redes jerárquicas de tareas permiten organizar planes complejos en tareas más simples y subordinadas. Esto simplifica la planificación y permite una representación más jerárquica de los objetivos.
+
+    Planificación Condicional: La planificación condicional se refiere a la generación de planes que toman en cuenta condiciones cambiantes o inciertas en el entorno. Los planes deben ser adaptativos y considerar múltiples escenarios posibles.
+
+    Vigilancia de Ejecución y Replanificación: Durante la ejecución de un plan, es importante monitorear el progreso y detectar desviaciones. La replanificación implica la modificación del plan en tiempo real para adaptarse a situaciones inesperadas.
+
+    Planificación Continua y Multiagente: La planificación continua implica la generación de planes en entornos continuos, como robótica y control de procesos. La planificación multiagente involucra la coordinación de múltiples agentes para lograr objetivos comunes.
+
+Estos temas son fundamentales en el campo de la planificación y se aplican en una amplia variedad de dominios, desde la robótica y la logística hasta la gestión de proyectos y la toma de decisiones en tiempo real. Cada uno de estos temas aborda aspectos específicos de la generación de planes y el razonamiento sobre acciones en entornos complejos.
